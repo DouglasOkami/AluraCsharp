@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projecVetores/projecVetores.csproj": {}
+    "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projectAgencia/projectAgencia.csproj": {}
   },
   "projects": {
-    "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projecVetores/projecVetores.csproj": {
+    "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projectAgencia/projectAgencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projecVetores/projecVetores.csproj",
-        "projectName": "projecVetores",
-        "projectPath": "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projecVetores/projecVetores.csproj",
+        "projectUniqueName": "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projectAgencia/projectAgencia.csproj",
+        "projectName": "projectAgencia",
+        "projectPath": "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projectAgencia/projectAgencia.csproj",
         "packagesPath": "/Users/r.da.silva.ferreira/.nuget/packages/",
-        "outputPath": "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projecVetores/obj/",
+        "outputPath": "/Users/r.da.silva.ferreira/Documents/aluraCsharp/projectAgencia/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/r.da.silva.ferreira/.nuget/NuGet/NuGet.Config"
